@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 25%;
+}
+.img2 {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    margin-left: 6%;
+}
+.btn {
+    width: 50%;
+    height: 34px;
+    border-radius: 5px;
+    background-color: blue;
+    border: 1px solid aquamarine;
+    color: white;
+    margin-left: 8%;
+}
+.products {
+    width: 21%;
+    margin-left: 12%;
+    margin-top: 40px;
+    height: 250px;
+}
+.price {
+    margin-left: 15%;
+    width: 100%;
+}
+.name {
+    margin-left: 10%;
+    width: 100%;
+}
